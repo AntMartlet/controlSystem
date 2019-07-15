@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "robotoLight";
+    font-display: swap;
+    src: url("/public/fonts/roboto-light.woff"),
+    url("/public/fonts/roboto-light.ttf");
+}
+
+@font-face {
+    font-family: "robotoMedium";
+    font-display: swap;
+    src: url("/public/fonts/roboto-medium.woff"),
+    url("/public/fonts/roboto-medium.ttf");
+}
+
+@font-face {
+    font-family: "robotoRegular";
+    font-display: swap;
+    src: url("/public/fonts/roboto-regular.woff"),
+    url("/public/fonts/roboto-regular.ttf");
+}
+
+@font-face {
+    font-family: "icomoon";
+    font-display: swap;
+    src: url("/public/fonts/icomoon.woff?hfqxn9"),
+    url("/public/fonts/icomoon.svg?hfqxn9#icomoon"),
+    url("/public/fonts/icomoon.ttf?hfqxn9");
+}
